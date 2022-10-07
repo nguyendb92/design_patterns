@@ -3,7 +3,7 @@
 ## Single Reponsibility Principle
 
     - A class should only have one reason to change
-    - Separation of concerns -different classes handling different, independent tasks/problems
+    - Separation of concerns - different classes handling different, independent tasks/problems
 
 ## Open-Closed Principle
     
@@ -20,4 +20,4 @@
   
 # Dependency Inversion Principle
 
-    - High level module should not depend upon low level ones, use abstractions
+    - High level module should not depend upon low-level ones; use abstractions
